@@ -1,4 +1,4 @@
-# Flappy-Bird
+# Chrome Dino
 Not much to talk about here
 ## 🚀 About Me
 I'm a bored kid with too much time on his hands  
